@@ -1,0 +1,1 @@
+<view class="home-page"><qiun-data-charts vue-id="1da55560-1" type="pie" chartData="{{pieChartData}}" bind:__l="__l"></qiun-data-charts><qiun-data-charts vue-id="1da55560-2" type="pie" chartData="{{pieChartData}}" bind:__l="__l"></qiun-data-charts><qiun-data-charts vue-id="1da55560-3" type="demotype" chartData="{{chartData}}" bind:__l="__l"></qiun-data-charts></view>
